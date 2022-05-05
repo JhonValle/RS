@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.rs">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.RS">
+        <activity
+            android:name=".Cronometro"
+            android:exported="false" />
+        <activity
+            android:name=".Sobrepeso"
+            android:exported="false" />
+        <activity
+            android:name=".PesoNormal"
+            android:exported="false" />
+        <activity
+            android:name=".PesobajomuyGrave"
+            android:exported="false" />
+        <activity
+            android:name=".PesobajoGrave"
+            android:exported="false" />
+        <activity
+            android:name=".Pesobajo"
+            android:exported="false" />
+        <activity
+            android:name=".ObesidadGrado3"
+            android:exported="false" />
+        <activity
+            android:name=".ObesidadGrado2"
+            android:exported="false" />
+        <activity
+            android:name=".ObesidadGrado1"
+            android:exported="false" />
+        <activity
+            android:name=".Recomendaciones"
+            android:exported="false" />
+        <activity
+            android:name=".Operaciones"
+            android:exported="false" />
+        <activity
+            android:name=".Salud"
+            android:exported="false" />
+        <activity
+            android:name=".ReggaetonM"
+            android:exported="false" />
+        <activity
+            android:name=".RockM"
+            android:exported="false" />
+        <activity
+            android:name=".PopM"
+            android:exported="false" />
+        <activity
+            android:name=".RapM"
+            android:exported="false" />
+        <activity
+            android:name=".CumbiaM"
+            android:exported="false" />
+        <activity
+            android:name=".Botones"
+            android:exported="false" />
+        <activity
+            android:name=".Canciones"
+            android:exported="false" />
+        <activity
+            android:name=".CancionesCategoria"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RS/app/src/main/res/layout/activity_botones.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RS/app/src/main/res/layout/activity_canciones.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RS/app/src/main/res/layout/activity_canciones_categoria.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RS/app/src/main/res/layout/activity_cronometro.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RS/app/src/main/res/layout/activity_cronometro2.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RS/app/src/main/res/layout/activity_cumbia_m.xml" value="0.2" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RS/app/src/main/res/layout/activity_main.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RS/app/src/main/res/layout/activity_obesidad_grado1.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RS/app/src/main/res/layout/activity_obesidad_grado2.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RS/app/src/main/res/layout/activity_obesidad_grado3.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RS/app/src/main/res/layout/activity_operaciones.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RS/app/src/main/res/layout/activity_peso_normal.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RS/app/src/main/res/layout/activity_pesobajo.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RS/app/src/main/res/layout/activity_pesobajo_grave.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RS/app/src/main/res/layout/activity_pesobajomuy_grave.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RS/app/src/main/res/layout/activity_pop_m.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RS/app/src/main/res/layout/activity_rap_m.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RS/app/src/main/res/layout/activity_recomendaciones.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RS/app/src/main/res/layout/activity_reggaeton_m.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RS/app/src/main/res/layout/activity_rock_m.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RS/app/src/main/res/layout/activity_sobrepeso.xml" value="0.22780797101449277" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

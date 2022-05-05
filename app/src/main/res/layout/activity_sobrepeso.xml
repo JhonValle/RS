@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/_evitar_el_consumo_excesivo_de_frituras___consumir_agua__6_u_8_vasos_de_agua_al_d_a____evitar_el_consumo_de_alimentos_ultra_procesados__altos_en_sodio__az_car__grasas_saturadas_y_que_contengan_grasas_trans__puede"
+    tools:context=".Sobrepeso">
+
+</androidx.constraintlayout.widget.ConstraintLayout>
